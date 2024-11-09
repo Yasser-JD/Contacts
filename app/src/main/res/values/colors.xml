@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolbar_background">#FFFFFF</color>
+    <color name="toolbar_text">#121212</color>
+
+    <color name="circle_background">#121212</color>
+    <color name="circle_text">#FFFFFF</color>
+
+    <color name="splash_background">#FFFFFF</color> <!-- Background for light mode -->
+    <color name="splash_text">#121212</color>
+
+
+        <color name="colorA">#FFC107</color> <!-- Amber -->
+        <color name="colorB">#FF9800</color> <!-- Orange -->
+        <color name="colorC">#F44336</color> <!-- Red -->
+        <color name="colorD">#E91E63</color> <!-- Pink -->
+        <color name="colorE">#9C27B0</color> <!-- Purple -->
+        <color name="colorF">#673AB7</color> <!-- Deep Purple -->
+        <color name="colorG">#3F51B5</color> <!-- Indigo -->
+        <color name="colorH">#2196F3</color> <!-- Blue -->
+        <color name="colorI">#03A9F4</color> <!-- Light Blue -->
+        <color name="colorJ">#00BCD4</color> <!-- Cyan -->
+        <color name="colorK">#009688</color> <!-- Teal -->
+        <color name="colorL">#4CAF50</color> <!-- Green -->
+        <color name="colorM">#8BC34A</color> <!-- Light Green -->
+        <color name="colorN">#CDDC39</color> <!-- Lime -->
+        <color name="colorO">#FFEB3B</color> <!-- Yellow -->
+        <color name="colorP">#FFC107</color> <!-- Amber -->
+        <color name="colorQ">#FF9800</color> <!-- Orange -->
+        <color name="colorR">#F44336</color> <!-- Red -->
+        <color name="colorS">#E91E63</color> <!-- Pink -->
+        <color name="colorT">#9C27B0</color> <!-- Purple -->
+        <color name="colorU">#673AB7</color> <!-- Deep Purple -->
+        <color name="colorV">#3F51B5</color> <!-- Indigo -->
+        <color name="colorW">#2196F3</color> <!-- Blue -->
+        <color name="colorX">#03A9F4</color> <!-- Light Blue -->
+        <color name="colorY">#00BCD4</color> <!-- Cyan -->
+        <color name="colorZ">#009688</color> <!-- Teal -->
+
+
+</resources>
+
+

@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+        <color name="toolbar_background">#121212</color>
+        <color name="toolbar_text">#FFFFFF</color>
+
+        <color name="circle_background">#FFFFFF</color>
+        <color name="circle_text">#121212</color>
+
+    <color name="splash_background">#121212</color> <!-- Background for dark mode -->
+    <color name="splash_text">#FFFFFF</color>
+
+        <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+            <!-- Customize your theme here. -->
+            <item name="colorPrimary">@color/toolbar_background</item>
+            <item name="colorPrimaryDark">@color/toolbar_background</item>
+            <item name="colorAccent">@color/circle_background</item>
+        </style>
+
+</resources>
