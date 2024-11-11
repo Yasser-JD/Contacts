@@ -3,4 +3,6 @@
     <string name="contacts">Contacts</string>
     <string name="change_language">Change Language</string>
     <string name="search">Search</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
 </resources>
